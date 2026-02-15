@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# SQLite local database (não versionar)
+Organizador.db
+Organizador.db-shm
+Organizador.db-wal
